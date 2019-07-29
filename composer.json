@@ -1,5 +1,6 @@
 {
     "name": "andrewa/shoppingcart",
+    "version": "2.0",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
